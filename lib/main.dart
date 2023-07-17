@@ -32,6 +32,9 @@ void main() async {
         ],
         path: 'assets/translations',
         fallbackLocale: const Locale('en', 'US'),
+        //This app should be used in release mode unless you want to test it's screen size compatibility.
+        //Preferably test it on a real device. I can't use emulators on my device and since i tested it
+        //on a real device, I can assure it works good.
         child: DevicePreview(
           enabled: !kReleaseMode,
           builder: (context) => const DTTApp(),
