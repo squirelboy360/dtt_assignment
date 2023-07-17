@@ -86,8 +86,6 @@ class _OverviewScreenState extends State<OverviewScreen> {
                         likeButtonIsVisible: true,
                         likeWidget: GestureDetector(
                           onTap: () {
-                            //make checks on the item status(if it is stored ore not) on clicked.
-
                             final properties = provider.houses[index];
                             Provider.of<ParentProvider>(context, listen: false)
                                 .checkSavedStatus(properties.id);
