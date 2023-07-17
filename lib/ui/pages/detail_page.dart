@@ -157,7 +157,7 @@ class _DetailScreenState extends State<DetailScreen> {
         children: [
           FontSizeEnhancer(
               onTap: () {
-                Provider.of<FontEnhancer>(context, listen: false)
+                Provider.of<ParentProvider>(context, listen: false)
                     .fontSizeIncrement();
               },
               icon: CupertinoIcons.add,
@@ -165,7 +165,7 @@ class _DetailScreenState extends State<DetailScreen> {
           const Padding(padding: EdgeInsets.all(2)),
           FontSizeEnhancer(
               onTap: () {
-                Provider.of<FontEnhancer>(context, listen: false)
+                Provider.of<ParentProvider>(context, listen: false)
                     .fontSizeDecrement();
               },
               icon: CupertinoIcons.minus,
