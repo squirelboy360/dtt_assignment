@@ -1,0 +1,23 @@
+{
+  "overviewScreenTitle": "DTT BIENES RAÍCES",
+  "searchButtonText": "Buscar una casa",
+  "itemAddText": "Añadido",
+  "itemRemoveText": "Eliminado",
+  "noResultFoundAlertText": "¡No se encontraron resultados!\nIntenta con otra búsqueda",
+  "aboutHeading": "Acerca de",
+  "about": "Esta aplicación es un producto de DTT desarrollado por Tahiru Agbanwa. La agencia digital DTT ha estado presente desde 2010 para emprendedores y creadores de diferencia emprendedores. Creamos soluciones de aplicaciones, juegos y web para todo tipo de clientes, incluyendo agencias gubernamentales, multinacionales, atención médica, ONG, startups, inversionistas y pymes. Esta aplicación está diseñada para permitir a los usuarios ver bienes raíces/casas disponibles para comprar con suficientes detalles, incluyendo precio y ubicación. El objetivo es hacer que los bienes raíces sean accesibles para los usuarios que deseen encontrar una propiedad (casa) impresionante y decente para tener en los Países Bajos.",
+  "byDTTText": "por DTT",
+  "descriptionHeading": "Descripción",
+  "locationHeading": "Ubicación",
+  "fontSizeText": "Tamaño de fuente",
+  "savesScreenTitle": "Todas las Guardas",
+  "clearAllText": "Borrar todo",
+  "dAndDHeading": "Diseño y Desarrollo",
+  "lErrorTitle": "Su Permiso",
+  "lErrorReasonForPermission": "Por qué solicitamos permiso de ubicación",
+  "lErrorLocOn": "Ubicación desactivada. Su ubicación permite que la aplicación calcule su distancia desde cada bien raíz",
+  "lErrorLocOff": "Esto es para asegurarse de que la aplicación se inicialice correctamente, ya que otorgar permiso a la aplicación para acceder a su ubicación permite que la aplicación calcule su distancia desde cada bien raíz. Si no otorga permiso a esta aplicación, se reemplazará su ubicación por una ubicación anónima aleatoria.",
+  "lErrorStorageText": "Almacenamiento",
+  "lErrorDescriptionTxt": "La aplicación guarda los bienes raíces que ha guardado en el almacenamiento de su dispositivo.",
+  "lErrorBottomButtonChildTxt": "Aceptar"
+}

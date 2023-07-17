@@ -1,0 +1,23 @@
+{
+  "overviewScreenTitle": "DTT ONROEREND GOED",
+  "searchButtonText": "Zoek naar een huis",
+  "itemAddText": "Toegevoegd",
+  "itemRemoveText": "Verwijderd",
+  "noResultFoundAlertText": "Geen resultaat gevonden!\nProbeer een andere zoekopdracht",
+  "aboutHeading": "Over",
+  "about": "Deze app is een product van DTT ontwikkeld door Tahiru Agbanwa. Digital agency DTT is er sinds 2010 voor ondernemers en ondernemende verschilmakers. We creëren app-, game- en weboplossingen voor allerlei soorten klanten, waaronder overheidsinstellingen, multinationals, gezondheidszorg, NGO's, start-ups, investeerders en het MKB. Deze app is ontworpen om gebruikers in staat te stellen koopbare onroerend goed/huizen te zien met voldoende details, waaronder prijs en locatie. Het doel is om onroerend goed ontdekt te maken voor gebruikers die op zoek zijn naar een prachtig en fatsoenlijk pand (huis) in Nederland.",
+  "byDTTText": "door DTT",
+  "descriptionHeading": "Beschrijving",
+  "locationHeading": "Locatie",
+  "fontSizeText": "Tekstgrootte",
+  "savesScreenTitle": "Alle Opslaan",
+  "clearAllText": "Alles wissen",
+  "dAndDHeading": "Ontwerp en Ontwikkeling",
+  "lErrorTitle": "Uw toestemming",
+  "lErrorReasonForPermission": "Waarom vragen we om uw locatietoestemming",
+  "lErrorLocOn": "Locatie uitgeschakeld. Uw locatie stelt de app in staat uw afstand tot elk onroerend goed te berekenen",
+  "lErrorLocOff": "Dit is om ervoor te zorgen dat de app correct wordt geïnitialiseerd, omdat het geven van toestemming aan de app voor uw locatie de app in staat stelt uw afstand tot elk onroerend goed te berekenen. Geen toestemming geven aan deze app zal uw locatie vervangen door een willekeurige anonieme locatie.",
+  "lErrorStorageText": "Opslag",
+  "lErrorDescriptionTxt": "De app bewaart opgeslagen onroerend goed door u op uw apparaat op te slaan.",
+  "lErrorBottomButtonChildTxt": "Okay"
+}

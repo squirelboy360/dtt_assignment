@@ -1,0 +1,23 @@
+{
+  "overviewScreenTitle": "DTT REAL ESTATE",
+  "searchButtonText": "Search for a home",
+  "itemAddText": "Added",
+  "itemRemoveText": "Removed",
+  "noResultFoundAlertText": "No result found!\nPerhaps try another search",
+  "aboutHeading": "About",
+  "about": "This app is a product of DTT developed by Tahiru Agbanwa. Digital agency DTT has been there since 2010 for entrepreneurs and enterprising difference makers. We create app, game and web solutions for all types of clients, including government agencies, multinationals, healthcare, NGOs, start-ups, investors and SMEs. This app is designed to allow users see purchasable real estates/houses with enough details including price and location. The aim is to make real estates discoverable to users wanting to find a stunning and decent property(house) to own in the Netherlands.",
+  "byDTTText": "by DTT",
+  "descriptionHeading": "Description",
+  "locationHeading": "Location",
+  "fontSizeText": "Font Size",
+  "savesScreenTitle": "All Saves",
+  "clearAllText": "Clear all",
+  "dAndDHeading": "Design and Development",
+  "lErrorTitle": "Your Permission",
+  "lErrorReasonForPermission": "Why we ask for your location permission",
+  "lErrorLocOn": "Location disabled.Your location allows the app calculate your distance from each Real Estate",
+  "lErrorLocOff": "This is to ensure the app is properly initialized as granting the app permission to your location allows the app calculate your distance from each Real Estate. Not giving permission to this app will replace what was supposed to be your location with a random anonymous one.",
+  "lErrorStorageText": "Storage",
+  "lErrorDescriptionTxt": "The App persists saved estates by you to your device's storage.",
+  "lErrorBottomButtonChildTxt": "Okay"
+}
