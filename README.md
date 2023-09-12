@@ -1,7 +1,7 @@
 # DTT Real Estate App 🏘
 # Includes:
-### - 👾 Bug Fixes
-### - 📱 UI update
+### - 👾 Bug Fixes From Previous Iterations
+### - 📱 UI Update
 ### - 📁 Code Structured for easy reading
 
 A flutter assignment project assigned to me to build by DTT. 
