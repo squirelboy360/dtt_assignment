@@ -2,7 +2,7 @@
 # Includes:
 ### - 👾 Bug Fixes From Previous Iterations
 ### - 📱 UI Update
-### - 📁 Code Structured for easy reading
+
 
 A flutter assignment project assigned to me to build by DTT. 
 ![alt text](https://raw.githubusercontent.com/squirelboy360/dtt_assignment/main/git_assets/1.png)
