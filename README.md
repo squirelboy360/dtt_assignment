@@ -1,6 +1,6 @@
 # DTT Real Estate App 🏘
 # Includes:
-### - 👾 Bug Fixes From Previous Iterations
+### - 👾 Bug Fixes From Previous Iteration
 ### - 📱 UI Update
 ### - 📁 Code Structured for easy reading
 
